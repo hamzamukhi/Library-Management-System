@@ -1,4 +1,4 @@
-# Library-Mangement-System
+# Library-Management-System
 The HM Library Management System In Python is a project developed using Python. 
 The project contains 4 module :
 1-  Display book
